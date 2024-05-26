@@ -42,7 +42,7 @@ I am currently pursuing my B.E. degree in Electronics and Tele-communication Eng
 - **AI & Machine Learning**:
     - Basic knowledge, planning to learn more in the future.
 
-## Projects and Repositories
+<!--## Projects and Repositories
 
 ### Highlighted Projects
 - **Project Name**: Brief description of the project, technologies used, and its purpose.
@@ -51,7 +51,7 @@ I am currently pursuing my B.E. degree in Electronics and Tele-communication Eng
 ### Notable Repositories
 - **Repository Name**: Brief description, technologies used.
 - **Repository Name**: Brief description, technologies used.
-
+-->
 ## Competitive Programming Profiles
 - [Codeforces](https://codeforces.com/profile/xrolex28)
 - [CodeChef](https://www.codechef.com/users/gh0st28)
