@@ -109,11 +109,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMAnish-28&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=p5o9bct6dn1kq41x83ev72jrx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
 
 
 
