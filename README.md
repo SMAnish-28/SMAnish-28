@@ -100,6 +100,13 @@
 
 **[AtCoder](https://atcoder.jp/users/xRoleX28)**  
 
+</td><td valign="top" width="33%">
+
+**[GfG](https://www.geeksforgeeks.org/user/gh0st28/)**  
+
+</td><td valign="top" width="33%">
+
+**[Leetcode](https://leetcode.com/)**  
 
 </td></tr></table>  
 
