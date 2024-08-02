@@ -86,29 +86,17 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
 
-**[CodeChef](https://www.codechef.com/users/gh0st28)**  
+### Competetive Programming Profiles
 
+| Platform   | Rating   |
+|------------|----------|
+| [CodeChef](https://www.codechef.com/users/gh0st28)   | 1606         |
+| [CodeForces](https://codeforces.com/profile/xrolex28) | 1324         |
+| [LeetCode](https://leetcode.com/u/greynoise/)   | 1715         |
+| [AtCoder](https://atcoder.jp/users/Gh0st28)    | 196         |
+| [GFG](https://www.geeksforgeeks.org/user/gh0st28/)        | 1816         |
 
-</td><td valign="top" width="33%">
-
-**[CodeForces](https://codeforces.com/profile/xrolex28)**  
-
-
-</td><td valign="top" width="33%">
-
-**[AtCoder](https://atcoder.jp/users/gh0st28)**  
-
-</td><td valign="top" width="33%">
-
-**[GfG](https://www.geeksforgeeks.org/user/gh0st28/)**  
-
-</td><td valign="top" width="33%">
-
-**[Leetcode](https://leetcode.com/)**  
-
-</td></tr></table>  
 
 <br/>  
 
