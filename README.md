@@ -91,11 +91,11 @@
 
 | Platform   | Rating   |
 |------------|----------|
-| [CodeChef](https://www.codechef.com/users/gh0st28)   | 1606         |
+| [CodeChef](https://www.codechef.com/users/gh0st28) :star::star::star:   | 1606         |
 | [CodeForces](https://codeforces.com/profile/xrolex28) | 1324         |
 | [LeetCode](https://leetcode.com/u/greynoise/)   | 1716         |
 | [AtCoder](https://atcoder.jp/users/Gh0st28)    | 274         |
-| [GFG](https://www.geeksforgeeks.org/user/gh0st28/)        | 1816         |
+| [GFG](https://www.geeksforgeeks.org/user/gh0st28/) :star::star::star::star:       | 1816         |
 
 
 <br/>  
