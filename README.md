@@ -93,7 +93,7 @@
 |------------|----------|
 | [CodeChef](https://www.codechef.com/users/gh0st28)   | 1606         |
 | [CodeForces](https://codeforces.com/profile/xrolex28) | 1324         |
-| [LeetCode](https://leetcode.com/u/greynoise/)   | 1715         |
+| [LeetCode](https://leetcode.com/u/greynoise/)   | 1716         |
 | [AtCoder](https://atcoder.jp/users/Gh0st28)    | 196         |
 | [GFG](https://www.geeksforgeeks.org/user/gh0st28/)        | 1816         |
 
