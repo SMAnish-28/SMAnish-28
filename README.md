@@ -7,7 +7,7 @@
 - 🌱 I’m interested in AI & ML related fields  
   
 
-- ❓ Ask me about anything 
+- ❓ Ask me about anything related to Tech Stack
   
 
 <br/>  
