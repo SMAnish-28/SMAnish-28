@@ -95,7 +95,7 @@
 | [CodeForces](https://codeforces.com/profile/xrolex28)  *pupil*| 1324         |
 | [LeetCode](https://leetcode.com/)   | 1805         |
 | [AtCoder](https://atcoder.jp/users/Gh0st28) *8 kyu*   | 437         |
-| [GFG](https://www.geeksforgeeks.org/user/gh0st28/) :star::star::star::star:       | 1937         |
+| [GFG](https://www.geeksforgeeks.org/user/gh0st28/) :star::star::star::star::star:      | 2000         |
 
 
 <br/>  
