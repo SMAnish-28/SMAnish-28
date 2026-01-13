@@ -1,13 +1,7 @@
  ### <div align="center">I'm Anish, pursuing my B.E. degree in Electronics and Tele-Communication Engineering 👨‍💻 from Jadavpur University 🚀</div>  
   
 
-- 🔭 I’m currently learning Full Stack Web Development  
-  
 
-- 🌱 I’m interested in AI & ML related fields  
-  
-
-- ❓ Ask me about anything related to Tech Stack
   
 
 <br/>  
